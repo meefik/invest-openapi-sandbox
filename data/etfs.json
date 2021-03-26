@@ -1,0 +1,472 @@
+[
+  {
+    "figi": "BBG333333333",
+    "ticker": "TMOS",
+    "isin": "RU000A101X76",
+    "minPriceIncrement": 0.002,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "Тинькофф iMOEX",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG005DXDPK9",
+    "ticker": "FXGD",
+    "isin": "IE00B8XB7377",
+    "minPriceIncrement": 0.2,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Золото",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00NB6KGN0",
+    "ticker": "SBCB",
+    "isin": "RU000A1000Q6",
+    "minPriceIncrement": 0.01,
+    "lot": 1,
+    "currency": "USD",
+    "name": "Сбербанк Индекс Еврооблигаций",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00PVNWQ15",
+    "ticker": "VTBE",
+    "isin": "RU000A100HQ5",
+    "minPriceIncrement": 0.01,
+    "lot": 1,
+    "currency": "USD",
+    "name": "ВТБ Акции развивающихся рынков",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00RPRPBY4",
+    "ticker": "VTBU",
+    "isin": "RU000A101368",
+    "minPriceIncrement": 0.01,
+    "lot": 1,
+    "currency": "USD",
+    "name": "ВТБ Корп еврооблигации РФ",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00YM3BX27",
+    "ticker": "AKCH",
+    "isin": "RU000A102FK8",
+    "minPriceIncrement": 0.01,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "Альфа-Капитал Китайские Акции",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00M8C8Y03",
+    "ticker": "FXKZ",
+    "isin": "IE00BG0C3K84",
+    "minPriceIncrement": 0.1,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Акции казахстанских компаний",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00PVNWFM6",
+    "ticker": "VTBH",
+    "isin": "RU000A100HP7",
+    "minPriceIncrement": 0.01,
+    "lot": 1,
+    "currency": "USD",
+    "name": "ВТБ Корп облигации США",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG005VKB7D7",
+    "ticker": "FXCN",
+    "isin": "IE00BD3QFB18",
+    "minPriceIncrement": 0.5,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Акции китайских компаний",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00V9V16J8",
+    "ticker": "VTBG",
+    "isin": "RU000A101NZ2",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "ВТБ Фонд Золото",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG000000000",
+    "ticker": "TUSD",
+    "isin": "RU000A1011S9",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "USD",
+    "name": "Тинькофф Вечный портфель USD",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG000000002",
+    "ticker": "TEUR",
+    "isin": "RU000A1011T7",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "EUR",
+    "name": "Тинькофф Вечный портфель EUR",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG000000001",
+    "ticker": "TRUR",
+    "isin": "RU000A1011U5",
+    "minPriceIncrement": 0.001,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "Тинькофф Вечный портфель RUB",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00KMXH2C2",
+    "ticker": "RUSB",
+    "isin": "LU1483649825",
+    "minPriceIncrement": 0.5,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "ITI Funds Еврооблигации рос. эмитентов (USD)",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG111111111",
+    "ticker": "TECH",
+    "isin": "RU000A101X68",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "USD",
+    "name": "Тинькофф NASDAQ",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG005HLSZ23",
+    "ticker": "FXUS",
+    "isin": "IE00BD3QHZ91",
+    "minPriceIncrement": 1,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Акции американских компаний",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG0073DLHS1",
+    "ticker": "FXRL",
+    "isin": "IE00BQ1Y6480",
+    "minPriceIncrement": 0.5,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Акции российских компаний",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00WJSKRX9",
+    "ticker": "ESGR",
+    "isin": "RU000A101R66",
+    "minPriceIncrement": 0.1,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "РСХБ - Вектор Устойчивого развития",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG005N1KZX4",
+    "ticker": "FXRU",
+    "isin": "IE00BD5FH213",
+    "minPriceIncrement": 0.1,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Еврооблигации рос. компаний (USD)",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00YZ50N04",
+    "ticker": "DIVD",
+    "isin": "RU000A102N02",
+    "minPriceIncrement": 0.2,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "ДОХОДЪ Индекс дивидендных акций РФ",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00PGVPH30",
+    "ticker": "VTBA",
+    "isin": "RU000A100E21",
+    "minPriceIncrement": 0.01,
+    "lot": 1,
+    "currency": "USD",
+    "name": "ВТБ Акции компаний США",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG004HNZFH2",
+    "ticker": "FXRB",
+    "isin": "IE00B7L7CP77",
+    "minPriceIncrement": 1,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Еврооблигации рос. компаний (RUB)",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00MF4JRQ8",
+    "ticker": "VTBB",
+    "isin": "RU000A1002S8",
+    "minPriceIncrement": 0.1,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "ВТБ Корпоративные облигации",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00R980XY3",
+    "ticker": "FXRW",
+    "isin": "IE00BK224M36",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Акции глобального рынка",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00NJ6XQ74",
+    "ticker": "SBGB",
+    "isin": "RU000A1000F9",
+    "minPriceIncrement": 0.2,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "Сбербанк Индекс Мосбиржи ОФЗ",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00M0C8YM7",
+    "ticker": "SBMX",
+    "isin": "RU000A0ZZH92",
+    "minPriceIncrement": 0.5,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "Сбербанк Индекс Мосбиржи",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG006GYFHV6",
+    "ticker": "FXMM",
+    "isin": "IE00BL3DYX33",
+    "minPriceIncrement": 0.1,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Казначейские облигации США",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00KMXFK61",
+    "ticker": "RUSE",
+    "isin": "LU1483649312",
+    "minPriceIncrement": 0.5,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "ITI Funds Акции рос. компаний (индекс РТС)",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00R9805F5",
+    "ticker": "FXWO",
+    "isin": "IE00BK224L29",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Акции глобального рынка",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00Y6D0N45",
+    "ticker": "FXIM",
+    "isin": "IE00BNC2D728",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "USD",
+    "name": "FinEx Акции компаний IT-сектора США",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00NTZWLM4",
+    "ticker": "SBSP",
+    "isin": "RU000A1006W1",
+    "minPriceIncrement": 0.2,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "Сбербанк S&P 500",
+    "type": "Etf"
+  },
+  {
+    "figi": "TCS00A101EJ5",
+    "ticker": "VTBX",
+    "isin": "RU000A101EJ5",
+    "minPriceIncrement": 0.05,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "ВТБ Индекс Мосбиржи",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG005H7MXN2",
+    "ticker": "FXDE",
+    "isin": "IE00BD3QJN10",
+    "minPriceIncrement": 0.5,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Акции немецких компаний",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG222222222",
+    "ticker": "TGLD",
+    "isin": "RU000A101X50",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "USD",
+    "name": "Тинькофф Золото",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00M0DNJ69",
+    "ticker": "RU000A0JR282",
+    "isin": "RU000A0JR282",
+    "minPriceIncrement": 0.05,
+    "lot": 100,
+    "currency": "RUB",
+    "name": "ВТБ Капитал – Фонд Акций",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00P5M77Y0",
+    "ticker": "AKSP",
+    "isin": "RU000A1006V3",
+    "minPriceIncrement": 0.01,
+    "lot": 1,
+    "currency": "USD",
+    "name": "Альфа-Капитал S&P 500",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00RPRPX12",
+    "ticker": "VTBM",
+    "isin": "RU000A1014L8",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "ВТБ Ликвидность",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00YRW4B42",
+    "ticker": "AKME",
+    "isin": "RU000A102E78",
+    "minPriceIncrement": 0.01,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "Альфа-Капитал Российские акции",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00V7649K4",
+    "ticker": "AKMB",
+    "isin": "RU000A101PN3",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "Альфа-Капитал Управляемые облигации",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00NNQMD85",
+    "ticker": "AKNX",
+    "isin": "RU000A0ZZTQ4",
+    "minPriceIncrement": 0.01,
+    "lot": 1,
+    "currency": "USD",
+    "name": "Альфа-Капитал Технологии 100",
+    "type": "Etf"
+  },
+  {
+    "figi": "TCS00A102EQ8",
+    "ticker": "TSPX",
+    "isin": "RU000A102EQ8",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "USD",
+    "name": "Тинькофф S&P 500",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00Q3HQJ74",
+    "ticker": "AKEU",
+    "isin": "RU000A100Q43",
+    "minPriceIncrement": 0.01,
+    "lot": 1,
+    "currency": "EUR",
+    "name": "Альфа-Капитал Европа 600",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG005HLTYH9",
+    "ticker": "FXIT",
+    "isin": "IE00BD3QJ757",
+    "minPriceIncrement": 1,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Акции компаний IT-сектора США",
+    "type": "Etf"
+  },
+  {
+    "figi": "TCS00A100P44",
+    "ticker": "SBRB",
+    "isin": "RU000A100P44",
+    "minPriceIncrement": 0.2,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "Сбербанк Рублевые Корп Облигации",
+    "type": "Etf"
+  },
+  {
+    "figi": "TCS00A102EM7",
+    "ticker": "TIPO",
+    "isin": "RU000A102EM7",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "USD",
+    "name": "Тинькофф Индекс IPO",
+    "type": "Etf"
+  },
+  {
+    "figi": "TCS00A102EK1",
+    "ticker": "TBIO",
+    "isin": "RU000A102EK1",
+    "minPriceIncrement": 0.0001,
+    "lot": 1,
+    "currency": "USD",
+    "name": "Тинькофф NASDAQ Biotech",
+    "type": "Etf"
+  },
+  {
+    "figi": "BBG00NRFC2X2",
+    "ticker": "FXTB",
+    "isin": "IE00BL3DYW26",
+    "minPriceIncrement": 0.1,
+    "lot": 1,
+    "currency": "RUB",
+    "name": "FinEx Казначейские облигации США (USD)",
+    "type": "Etf"
+  }
+]
